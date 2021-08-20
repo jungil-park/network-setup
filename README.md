@@ -3,9 +3,12 @@
 
 
 
-adding emoji [https://emojipedia.org/](https://emojipedia.org/ "fun  😺").
+adding emoji [https://emojipedia.org/](https://emojipedia.org/ "fun ").
 
- 
+Cat 😺 
+Gone camping! :tent: Be back soon.
+That is so funny! :joy:
+
 * aws :
         ansible-playbook -e "mode=apply cloud_type=aws env=aws" provcluster.yml
  
