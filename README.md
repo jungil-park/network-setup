@@ -1,10 +1,5 @@
 ![Ansible](/ansible/images/ansible.png "Ansible")
 
-
-
-
-
-## 1. Provision :
  
 
 <https://www.markdownguide.org>
@@ -16,6 +11,9 @@ adding emoji [https://emojipedia.org/](https://emojipedia.org/ "fun ").
 Cat 😺 
 Gone camping! :tent: Be back soon.
 That is so funny! :joy:
+
+## 1. Provision :
+
 
 * aws :
         ansible-playbook -e "mode=apply cloud_type=aws env=aws" provcluster.yml
